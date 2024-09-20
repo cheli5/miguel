@@ -1,0 +1,10 @@
+C:\Users\migue\source\repos\partial\partial\bin\Debug\partial.exe.config
+C:\Users\migue\source\repos\partial\partial\bin\Debug\partial.exe
+C:\Users\migue\source\repos\partial\partial\bin\Debug\partial.pdb
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.Form1.resources
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.Properties.Resources.resources
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.exe
+C:\Users\migue\source\repos\partial\partial\obj\Debug\partial.pdb
