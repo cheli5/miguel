@@ -1,0 +1,7 @@
+C:\Users\migue\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\migue\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\migue\source\repos\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\migue\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\migue\source\repos\Tienda\Tienda\obj\Debug\Tienda.pdb
