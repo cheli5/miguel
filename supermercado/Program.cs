@@ -14,12 +14,12 @@ namespace supermercado
 
             while (true)
             {
-                Console.WriteLine("Selecciona el articulo (ingresa '0' para finalizar):");
+                Console.WriteLine("Selecciona el articulo ('6' para terminar):");
                 Catalogo.MostrarCatalogo();
 
                 int artID = Convert.ToInt32(Console.ReadLine());
 
-                if (artID == 0)
+                if (artID == 6)
                 {
                     break;
                 }
